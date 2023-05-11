@@ -1,0 +1,12 @@
+Verifying .NET....
+Logging to /workspaces/JUASJUAS/tModLoader-Logs/Launch.log
+Fixing .NET SDL PATH issues
+Success!
+Parsing .NET version requirements from runtimeconfig.json
+Success!
+Checking for old .NET versions to remove from folder
+Cleanup Complete
+Checking dotnet install...
+Dotnet should be present in "/workspaces/JUASJUAS/dotnet/6.0.0"
+Loaded Custom Arguments: 
+Launched Using Local Dotnet
